@@ -37,7 +37,7 @@ export default function ExperienceSection() {
         "Integrated third-party APIs",
       ],
     },
-    {
+    /*{
       logo: "/mocai.png",
       company: "Ministry of Culture and Information",
       position: "Full Stack Developer",
@@ -49,7 +49,7 @@ export default function ExperienceSection() {
         "Built scalable backend services",
         "Integrated third-party APIs",
       ],
-    },
+    },*/
     {
       logo: "/ttt.jpg",
       company: "Top In Town Technology",
