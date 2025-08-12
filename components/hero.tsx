@@ -79,7 +79,7 @@ export default function Hero() {
             </Link>
 
             <Link
-              href="https://www.instagram.com/salim_baktash/"
+              href="https://www.instagram.com/starkbaktec"
               target="_blank"
             >
               <Button variant="ghost" size="icon" className="rounded-full">
