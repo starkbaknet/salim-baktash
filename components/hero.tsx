@@ -8,6 +8,7 @@ import {
   Twitter,
   Linkedin,
   Mail,
+  Instagram,
 } from "lucide-react";
 
 export default function Hero() {
@@ -74,6 +75,16 @@ export default function Hero() {
               <Button variant="ghost" size="icon" className="rounded-full">
                 <Mail className="h-5 w-5" />
                 <span className="sr-only">Email</span>
+              </Button>
+            </Link>
+
+            <Link
+              href="https://www.instagram.com/salim_baktash/"
+              target="_blank"
+            >
+              <Button variant="ghost" size="icon" className="rounded-full">
+                <Instagram className="h-5 w-5" />
+                <span className="sr-only">Instagram</span>
               </Button>
             </Link>
           </div>
